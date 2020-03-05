@@ -66,16 +66,20 @@ h1 {
 
   .headline {
     width: 100%;
-    padding: 1rem 2rem;
+    padding: 0;
     top: 10rem;
   }
 
   h4 {
     font-size: 0.77rem;
+    padding-left: 1.5rem;
+    padding-top: 1rem;
   }
 
   h1 {
     font-size: 1rem;
+    padding-left: 1.5rem;
+    padding-bottom: 1rem;
   }
 }
 
